@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">counter</string>
+    <string name="add_btn">add counter</string>
+</resources>

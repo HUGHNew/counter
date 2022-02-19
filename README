@@ -1,0 +1,10 @@
+A simple counter
+
+basic todo
+- [ ] functionality of add-button
+- [ ] bugfix of ViewHolder
+
+roadmap
+- [ ] substitute activity to fragment
+- [ ] time format self-defined
+- [ ] settings page
